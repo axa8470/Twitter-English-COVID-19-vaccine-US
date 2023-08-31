@@ -1,4 +1,4 @@
-# Twitter-English-COVID-19-vaccine-US
+# Twitter-English-COVID19-Vaccine-US
 
 This dataset is analyzed in the article "Your Tweets Matter: How Social Media Sentiments Associate with COVID-19 Vaccination Rates in the US".
 
